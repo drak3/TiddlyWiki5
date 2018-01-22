@@ -1,0 +1,6 @@
+{
+    "title": "$:/plugins/tiddlywiki/minimal-web",
+    "description": "Minimal client for a web-based tiddlywiki",
+    "author": "drak3",
+    "core-version": ">=5.0.0"
+}
